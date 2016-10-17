@@ -11,7 +11,7 @@ description = {
    detailed = [[
    	    A Cuda implementation of Histogram of Oriented Gradients (HOG)
    ]],
-   homepage = "https://github.com/fartashf/hog.torch"
+   homepage = "https://github.com/fartashf/hog.torch",
    license = "BSD"
 }
 
